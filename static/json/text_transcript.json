@@ -3,104 +3,123 @@
     "upper_box": { 
         "paragraaf1": {
             "start": 4.000,
-            "end": 14.000,
+            "end": 12.500,
             "speaker": "Siona (Belgisch)",
             "nuance": "😬",
             "content": [
                 {
                     "start": 4.600,
+                    "end": 5.500,
                     "word": "Euh,"
                 },
                 {
                     "start": 5.500,
+                    "end": 6.000,
                     "word": "meneer?"
                 },
                 {
                     "start": 6.000,
+                    "end": 8.900,
                     "word": "..."
                 },
                 {
                     "start": 8.900,
+                    "end": 9.300,
                     "word": "Sorry,"
                 },
                 {
                     "start": 9.300,
+                    "end": 9.500,
                     "word": "mag"
                 },
                 {
                     "start": 9.500,
+                    "end": 9.700,
                     "word": "ik"
                 },
                 {
                     "start": 9.700,
+                    "end": 9.900,
                     "word": "u"
                 },
                 {
                     "start": 9.900,
+                    "end": 10.300,
                     "word": "iets"
                 },
                 {
                     "start": 10.300,
+                    "end": 10.800,
                     "word": "vragen?"
                 }
             ]
         },
         "paragraaf2": {
-            "start": 13.000,
-            "end": 14.400,
+            "start": 12.500,
+            "end": 17.000,
             "speaker": "Siona (Belgisch)",
-            "nuance": "😬",
+            "nuance": "🤔",
             "content": [
                 {
                     "start": 13.300,
+                    "end": 13.800,
                     "word": "Heeft"
                 },
                 {
                     "start": 13.800,
+                    "end": 14.100,
                     "word": "u"
                 },
                 {
                     "start": 14.100,
+                    "end": 14.600,
                     "word": "geheimen?"
                 }
             ]
         },
         "paragraaf3": {
-            "start": 17.200,
+            "start": 17.000,
             "end": 20.500,
             "speaker": "Siona (Belgisch)",
-            "nuance": "😬",
+            "nuance": "🤔",
             "content": [
                 {
                     "start": 17.200,
+                    "end": 17.300,
                     "word": "Zou"
                 },
                 {
                     "start": 17.300,
+                    "end": 17.500,
                     "word": "ik"
                 },
                 {
                     "start": 17.500,
+                    "end": 18.000,
                     "word": "uw"
                 }
                 ,
                 {
                     "start": 18.000,
+                    "end": 18.600,
                     "word": "donkerste"
                 }
                 ,
                 {
                     "start": 18.600,
+                    "end": 18.800,
                     "word": "geheim"
                 }
                 ,
                 {
                     "start": 18.800,
+                    "end": 19.100,
                     "word": "mogen"
                 }
                 ,
                 {
                     "start": 19.100,
+                    "end": 19.500,
                     "word": "kennen?"
                 }
             ]
@@ -109,32 +128,36 @@
     "lower_box": { 
         "paragraaf1": {
             "start": 11.300,
-            "end": 14.000,
-            "speaker": "Voorbijlopende Belgische man op straat",
-            "nuance": "😬",
+            "end": 14.700,
+            "speaker": "Voorbijlopende Belgische man",
+            "nuance": "🙂",
             "content": [
                 {
                     "start": 11.600,
+                    "end": 12.000,
                     "word": "Tuurlijk,"
                 },
                 {
                     "start": 12.000,
+                    "end": 12.500,
                     "word": "ja."
                 }
             ]
         },
         "paragraaf2": {
-            "start": 15.000,
-            "end": 17.000,
-            "speaker": "Voorbijlopende Belgische man op straat",
-            "nuance": "😬",
+            "start": 14.700,
+            "end": 19.000,
+            "speaker": "Voorbijlopende Belgische man",
+            "nuance": "🙂",
             "content": [
                 {
-                    "start": 15.200,
+                    "start": 15.000,
+                    "end": 15.600,
                     "word": "Wie"
                 },
                 {
                     "start": 15.300,
+                    "end": 16.000,
                     "word": "niet?"
                 }
             ]

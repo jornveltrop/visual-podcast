@@ -4,6 +4,7 @@
   --light: #F3F3F3;
   --grey: #c7c7c7;
   --darkGrey: #272727;
+  --darkGreen: #18251f;
 }
 
 * {
@@ -18,6 +19,7 @@ html {
 body {
   margin: 0;
   padding: 0;
+  width: 100%;
   color: var(--light);
   background: var(--dark);
   font-family: 'Podkova', sans-serif;
@@ -50,6 +52,7 @@ main > section {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 7em;
 }
 
 main > section > header {
@@ -99,26 +102,53 @@ footer h3 {
 
 .transcript > p {
   margin: 0;
-  font-size: 5em;
+  font-size: 2em;
   position: absolute;
   top: 0;
 }
 
 .transcript ul {
-  list-style: none;
-  background-color: var(--light);
-  width: 100%;
+  display: flex;
   margin: 0;
-  margin-top: 2em;
-  padding: 3em 2em 2em 2em;
-  border-radius: 1em;
-  color: var(--dark);
-  max-width: 600px;
+  gap: 1.3em;
+  list-style: none;
+  flex-direction: column;
+  padding: 0;
 }
 
 .transcript li {
   display: flex;
+  position: relative;
   flex-direction: column;
+  background-color: var(--light);
+  width: 100%;
+  margin: 0;
+  padding: 1.5em 1.5em 4em 1.5em;
+  border-radius: 1em;
+  color: var(--dark);
+  max-width: 600px;
+  min-height: 180px;
+  min-width: 100%;
+  transition: opacity 1.5s ease;
+}
+
+.transcript li.geluid {
+  background-color: var(--darkGreen);
+  padding: 1em 1.5em;
+  color: var(--light);
+  min-height: inherit;
+  flex-direction: row;
+  gap: .6em;
+  align-items: center;
+}
+
+.transcript li.geluid img {
+  height: 2em;
+}
+
+.transcript li.geluid p {
+  font-style: italic;
+  margin: 0;
 }
 
 .transcript li header {
@@ -135,18 +165,18 @@ footer h3 {
 .transcript li header h5 {
   margin: 0;
   color: var(--dark);
-  font-size: 1.6em;
+  font-size: 1.3em;
   color: #601414;
 }
 
-.transcript li p {
-  font-size: 1.3em;
-  margin: 0;
-  margin-top: 1em;
+.transcript li:nth-child(2) h5 {
+  color: #142860;
 }
 
-.transcript li > p:nth-child(3) {
-  color: var(--grey);
+.transcript li p {
+  font-size: 1.1em;
+  margin: 0;
+  margin-top: 1em;
 }
 
 form {
@@ -157,27 +187,26 @@ form {
   gap: 1em;
 }
 
-.controls {
-  height: 3.5em;
+.none {
+  display: none;
 }
 
-.second {
-  animation: fade 4s infinite alternate;
+.highlight {
+  background-color: rgb(252, 186, 3)
 }
 
-@keyframes fade {
-  0% {
-    opacity: 1;
-  }
+.beenRead {
+  background-color: rgba(252, 186, 3, 0.3)
+}
 
-  45% {
-    opacity: 1;
-  }
-  55% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 0;
-  }
-  
+.nuance {
+  position: absolute;
+  font-size: 3em;
+  right: .2em;
+  bottom: 0em;
+}
+
+.transparent {
+  opacity: 0;
+  transition: opacity 1.5s ease;
 }

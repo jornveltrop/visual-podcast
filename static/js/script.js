@@ -1,7 +1,6 @@
 let url = '/json/text_transcript.json';
 
-const audio = document.querySelector("#audio");
-const p = document.querySelector(".upper_box");
+const audio = document.querySelector("audio");
 
 let fetchedData;
 
@@ -25,8 +24,6 @@ function renderText() {
 
     let fetchedData_convert = Object.entries(fetchedData);
     fetchedData_convert.forEach(box => {
-        // box_object = Object.fromEntries(box);
-
         //Convert in array om door te loopen
         let box_convert = Object.entries(box[1]);
 
@@ -36,12 +33,14 @@ function renderText() {
             let p = document.createElement('p')
                 p.setAttribute("start", paragraaf[1].start);
                 p.setAttribute("end", paragraaf[1].end);
+                p.setAttribute("nuance", paragraaf[1].nuance);
                 p.classList.add("none")
                 p.setAttribute("speaker", paragraaf[1].speaker);
 
             content.forEach(wordObject => {
                 let span = document.createElement('span')
                     span.id = wordObject.start;
+                    span.setAttribute("end", wordObject.end);
                     span.textContent = wordObject.word + " "
                 p.appendChild(Object.assign(span))
             });
