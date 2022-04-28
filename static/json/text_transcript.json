@@ -1,0 +1,143 @@
+
+{
+    "upper_box": { 
+        "paragraaf1": {
+            "start": 4.000,
+            "end": 14.000,
+            "speaker": "Siona (Belgisch)",
+            "nuance": "😬",
+            "content": [
+                {
+                    "start": 4.600,
+                    "word": "Euh,"
+                },
+                {
+                    "start": 5.500,
+                    "word": "meneer?"
+                },
+                {
+                    "start": 6.000,
+                    "word": "..."
+                },
+                {
+                    "start": 8.900,
+                    "word": "Sorry,"
+                },
+                {
+                    "start": 9.300,
+                    "word": "mag"
+                },
+                {
+                    "start": 9.500,
+                    "word": "ik"
+                },
+                {
+                    "start": 9.700,
+                    "word": "u"
+                },
+                {
+                    "start": 9.900,
+                    "word": "iets"
+                },
+                {
+                    "start": 10.300,
+                    "word": "vragen?"
+                }
+            ]
+        },
+        "paragraaf2": {
+            "start": 13.000,
+            "end": 14.400,
+            "speaker": "Siona (Belgisch)",
+            "nuance": "😬",
+            "content": [
+                {
+                    "start": 13.300,
+                    "word": "Heeft"
+                },
+                {
+                    "start": 13.800,
+                    "word": "u"
+                },
+                {
+                    "start": 14.100,
+                    "word": "geheimen?"
+                }
+            ]
+        },
+        "paragraaf3": {
+            "start": 17.200,
+            "end": 20.500,
+            "speaker": "Siona (Belgisch)",
+            "nuance": "😬",
+            "content": [
+                {
+                    "start": 17.200,
+                    "word": "Zou"
+                },
+                {
+                    "start": 17.300,
+                    "word": "ik"
+                },
+                {
+                    "start": 17.500,
+                    "word": "uw"
+                }
+                ,
+                {
+                    "start": 18.000,
+                    "word": "donkerste"
+                }
+                ,
+                {
+                    "start": 18.600,
+                    "word": "geheim"
+                }
+                ,
+                {
+                    "start": 18.800,
+                    "word": "mogen"
+                }
+                ,
+                {
+                    "start": 19.100,
+                    "word": "kennen?"
+                }
+            ]
+        }
+    },
+    "lower_box": { 
+        "paragraaf1": {
+            "start": 11.300,
+            "end": 14.000,
+            "speaker": "Voorbijlopende Belgische man op straat",
+            "nuance": "😬",
+            "content": [
+                {
+                    "start": 11.600,
+                    "word": "Tuurlijk,"
+                },
+                {
+                    "start": 12.000,
+                    "word": "ja."
+                }
+            ]
+        },
+        "paragraaf2": {
+            "start": 15.000,
+            "end": 17.000,
+            "speaker": "Voorbijlopende Belgische man op straat",
+            "nuance": "😬",
+            "content": [
+                {
+                    "start": 15.200,
+                    "word": "Wie"
+                },
+                {
+                    "start": 15.300,
+                    "word": "niet?"
+                }
+            ]
+        }
+    }
+}

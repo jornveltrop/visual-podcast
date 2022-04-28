@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="354" height="49" viewBox="0 0 354 49">
+  <g id="Group_37" data-name="Group 37" transform="translate(-2695 -160)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="354" height="4" rx="2" transform="translate(2695 163)" fill="#484848"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="107" height="4" rx="2" transform="translate(2695 163)" fill="#f3f3f3"/>
+    <text id="_08:21" data-name="08:21" transform="translate(2742 205)" fill="#c7c7c7" font-size="16" font-family="SFProText-Regular, SF Pro Text"><tspan x="-42.203" y="0">08:21</tspan></text>
+    <text id="_21:00" data-name="21:00" transform="translate(3049 205)" fill="#c7c7c7" font-size="16" font-family="SFProText-Regular, SF Pro Text"><tspan x="-41.984" y="0">21:00</tspan></text>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(2792 160)" fill="#f3f3f3"/>
+  </g>
+</svg>
