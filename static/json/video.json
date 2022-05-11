@@ -1,0 +1,12 @@
+{
+    "video1": {
+        "start": 0.000,
+        "end": 20.000,
+        "url": "/video/walking-video.mp4"
+    },
+    "video2": {
+        "start": 22.000,
+        "end": 25.000,
+        "url": " "
+    }
+}

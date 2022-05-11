@@ -4,8 +4,8 @@
         "paragraaf1": {
             "start": 4.000,
             "end": 12.500,
-            "speaker": "Siona (Belgisch)",
-            "nuance": "😬",
+            "speaker": "Siona (Vlaams)",
+            "nuance": "Twijfelend",
             "content": [
                 {
                     "start": 4.600,
@@ -57,8 +57,8 @@
         "paragraaf2": {
             "start": 12.500,
             "end": 17.000,
-            "speaker": "Siona (Belgisch)",
-            "nuance": "🤔",
+            "speaker": "Siona (Vlaams)",
+            "nuance": "Vragend",
             "content": [
                 {
                     "start": 13.300,
@@ -80,8 +80,8 @@
         "paragraaf3": {
             "start": 17.000,
             "end": 20.500,
-            "speaker": "Siona (Belgisch)",
-            "nuance": "🤔",
+            "speaker": "Siona (Vlaams)",
+            "nuance": "Vragend",
             "content": [
                 {
                     "start": 17.200,
@@ -129,8 +129,8 @@
         "paragraaf1": {
             "start": 11.300,
             "end": 14.700,
-            "speaker": "Voorbijlopende Belgische man",
-            "nuance": "🙂",
+            "speaker": "Voorbijlopende Vlaamse man",
+            "nuance": "Neutraal",
             "content": [
                 {
                     "start": 11.600,
@@ -147,8 +147,8 @@
         "paragraaf2": {
             "start": 14.700,
             "end": 19.000,
-            "speaker": "Voorbijlopende Belgische man",
-            "nuance": "🙂",
+            "speaker": "Voorbijlopende Vlaamse man",
+            "nuance": "Neutraal",
             "content": [
                 {
                     "start": 15.000,

@@ -20,11 +20,11 @@ function speakerInit() {
             let speaker = p.getAttribute('speaker') 
 
             if (place == 'upper') {
-                nuanceUpperDiv.textContent = nuance
-                upperSpeaker.textContent = speaker
+                nuanceUpperDiv.textContent = nuance 
+                upperSpeaker.textContent = speaker || "Siona (Vlaams)"
             } else if (place == 'lower') {
                 nuanceLowerDiv.textContent = nuance
-                lowerSpeaker.textContent = speaker
+                lowerSpeaker.textContent = speaker || "Voorbijlopende Vlaamse man"
             }
         })
     }

@@ -1,6 +1,9 @@
 let url = '/json/text_transcript.json';
 
 const audio = document.querySelector("audio");
+const video = document.querySelector("video");
+
+
 
 let fetchedData;
 
@@ -16,12 +19,28 @@ fetch(url)
 
 
 function readScript() {
+    video.classList.add('videoVis')
+    video.play()
     displayText()
 }
 
+audio.addEventListener("pause", pause);
+
+function pause() {
+    video.classList.remove('videoVis')
+}
+
+const videoButton = document.querySelector(".controls button")
+const videoButtonImg = document.querySelector(".controls button img")
+videoButton.addEventListener('click', videoVisable)
+
+function videoVisable() {
+    video.classList.toggle('videoHidden')
+    videoButtonImg.classList.toggle('videoButtonOpacity')
+}
 
 function renderText() {
-
+    
     let fetchedData_convert = Object.entries(fetchedData);
     fetchedData_convert.forEach(box => {
         //Convert in array om door te loopen
