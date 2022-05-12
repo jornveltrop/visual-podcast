@@ -42,9 +42,17 @@ body > header {
   display: flex;
   justify-content: center;
   background: var(--darkGrey);
+  gap: .5em;
 }
 
 body > header h1 {
+  font-size: 1.9em;
+}
+
+body > header button {
+  background: none;
+  padding: 0;
+  border: none;
   font-size: 1.9em;
 }
 
@@ -162,6 +170,12 @@ footer h3 {
   gap: 1em;
 }
 
+.transcript li header div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .transcript li header img {
   height: 3em;
   border-radius: 100%;
@@ -184,6 +198,11 @@ footer h3 {
   margin-top: 1em;
 }
 
+.transcript li p span {
+  opacity: 0;
+  transition: opacity .3s ease;
+}
+
 form {
   margin-top: 1em;
   max-width: 500px;
@@ -196,21 +215,23 @@ form {
   display: none;
 }
 
-.highlight {
-  background-color: rgb(252, 186, 3)
+.transcript li p .highlight {
+  background-color: rgb(252, 186, 3);
+  transition: opacity .4s ease;
+  opacity: 1;
 }
 
-.beenRead {
-  background-color: rgba(252, 186, 3, 0.3)
+.transcript li p .beenRead {
+  background-color: rgba(252, 186, 3, 0.3);
+  transition: opacity .4s ease;
+  opacity: 1;
 }
 
 .transcript li .nuance {
-  position: absolute;
   font-style: italic;
   font-weight: bold;
   font-size: .8em;
-  right: .8em;
-  bottom: .6em;
+  margin: 0;
 }
 
 .transparent {
