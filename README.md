@@ -48,7 +48,9 @@ Zo wordt het voor haar leuker en intressanter om een podcast te ervaren, omdat z
 Marie zal de applicatie niet op dezelfde manier gebruiken zoals goed horende podcast luisteraars. Ze zal het vaak op de bank of in bed gaan lezen, omdat zij niet tijdens het inruimen van de vaatwasser kan luisteren naar het gesprek. De applicatie zal dan ook vooral op mobiel goed moeten werken.
 
 ## Prototype 1
+Als eerste prototype had ik snel een opzet gemaakt van het concept. Nog niet interactief, want we hadden maar 3 uur voordat Marie kwam voor de eerste test. 
 
+Het concept is **'Visual Podcast'**. In het eerste prototype van Visual Podcast zie je in teks
 ### Test 1
 Testopzet
 
