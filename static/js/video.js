@@ -24,7 +24,7 @@ function displayVideoText() {
         console.log(delayedTime)
 
         if (audio.currentTime > videoEl[1].start && audio.currentTime < delayedTime) {
-            video.src = videoEl[1].url
+            
         }
     });
 }

@@ -97,3 +97,10 @@ function displayText() {
     })
 }
 
+
+const header = document.querySelector("body > header");
+const headerButton = document.querySelector("body > header button");
+
+headerButton.addEventListener('click', function () {
+    header.classList.toggle('disco')
+})
