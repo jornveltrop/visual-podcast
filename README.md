@@ -35,7 +35,17 @@ Maar leven met een auditieve beperking blijft uiteraard lastig in sommige situat
 Aan mij de taak om een interactieve oplossing te bedenken en te prototypen voor Marie. Zodat zij op dezelfde manier een podcast kan ervaren.
 
 ## User Scenario
-dat aansluit bij de identiteit van de test persoon. Er is een duidelijk en volledig user scenario geschreven dat antwoord geeft op de 4 w-vragen: Who? What? How? en Why?
+De persoon waar ik een ontwerp voor mag maken is Marie van Driessche. 
+
+Marie is al haar hele leven doof, daarom praat ze in gebarentaal. Ze is interaction designer op het gebied van toegankelijkheid bij de VPRO. Ze houdt van koken, wijn drinken en kitesurfen. (Niet tegelijk hoop ik). 
+
+Door Marie haar auditieve beperking kan zij niet zomaar een podcast luisteren. Van sommige podcasts zijn transcripties, maar dat is platte tekst en voelt niet fijn om te lezen. Ook mist de nuance in deze transcripties. De sfeer en manier van vertellen moet zij zelf invullen, dat wordt niet vormgegeven.
+
+Marie wilt (zo veel mogelijk) op de zelfde manier een podcast kunnen ervaren als mensen met een goed gehoor. Zodat ze de dynamiek, timing, sfeer, nuance en (achtergrond)geluiden ook mee krijgt. In plaats van kale tekst. 
+
+Zo wordt het voor haar leuker en intressanter om een podcast te ervaren, omdat ze dan beter haar aandacht erbij houdt en een volledig beeld krijgt van hoe het gesprek verliep. Al die elementen zijn namelijk precies wat voor mensen met goed gehoor een podcast zo leuk maakt. 
+
+Marie zal de applicatie niet op dezelfde manier gebruiken zoals goed horende podcast luisteraars. Ze zal het vaak op de bank of in bed gaan lezen, omdat zij niet tijdens het inruimen van de vaatwasser kan luisteren naar het gesprek. De applicatie zal dan ook vooral op mobiel goed moeten werken.
 
 ## Prototype 1
 
@@ -69,21 +79,16 @@ Wat had ik nog willen uitwerken?
 
 
 ## Installing
-Clone deze repository naar jouw lokale folder
+Clone deze repository naar jouw lokale folder:
 ```
-git clone https://github.com/jornveltrop/progressive-web-apps-2122.git
+https://github.com/jornveltrop/visual-podcast.git
 ```
-<br>
-
-Stel jouw API key in via de [Rijksstudio](https://www.rijksmuseum.nl/nl/rijksstudio)
 
 ## Author
 De maker van deze app is: [*Jorn Veltrop*](https://github.com/jornveltrop)
 
-
 ## Contributing
-Als je wilt bijdragen aan deze app kun je dat doen door middel van een [Issue](https://github.com/jornveltrop/progressive-web-apps-2122/issues).
-
+Als je wilt bijdragen aan deze app kun je dat doen door middel van een [Issue](https://github.com/jornveltrop/visual-podcast/issues).
 
 ## License
-Dit project valt onder de MIT [license](https://github.com/jornveltrop/progressive-web-apps-2122/blob/main/LICENSE).
+Dit project valt onder de MIT [license](https://github.com/jornveltrop/visual-podcast/blob/main/LICENSE).
