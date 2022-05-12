@@ -101,37 +101,75 @@ Marie liet tijdens het testen weten dat ze al erg blij was met deze versie. Wel 
 
 Naar aanleiding van haar opmerking over emoji's, vroeg ik of ze het misschien meer in een lopende zin zou willen lezen. Zoals: *"Dat weet ik niet", zei hij verbaasd.*. Dat wilde ze niet. 1 woord is genoeg, omdat ze anders alleen maar meer moet lezen, waar ze geen zin in heeft.
 
+Wat betreft de podcast van VPRO voor wat persoonlijke *touch*: Marie herkende inderdaad de podcast en de makers ervan. Dat vond ze erg leuk!
 
-Als laatste vroeg ik haar 
+Als laatste vroeg ik haar wat ze er van zou vinden als er in de achtergrond een video zou afspelen van een soort gelijke locatie waar het gesprek zich bevindt. Dat leek haar opzich een goed idee, als het niet te veel zou gaan afleiden.
 
 ## Prototype 4
+Zoals overlegd, had ik de achtergrond video in prototype 4 toegevoegd. Dit geeft meer sfeer en context over het gesprek.
+Rechts van de audio controls heb ik ook een video knop toegevoegd om de achtergrond video uit te kunnen zetten, als dit te veek afleidt. 
+
+Ook had ik de emoji's vervangen met een beschrijvend woord.
+
+<img src="content/prototype4.png" width="70%" alt="Prototype 4">
 
 ### Testen met Marie | Week 3
-Testopzet
+De laatste keer testen met Marie. Ze herkende inmiddels de applicatie en was benieuwd naar de achtergrondvideo. Deze vond ze erg fijn, omdat het goed bijdraagt aan de sfeer.
+Ze vond het mooi subtiel en niet afleidend.
+
+Marie vond de oplossing van de emoji's vervangen met een woord goed, maar nu staat het woord rechts onder het tekstblok. Daardoor las ze eerder de tekst en daarna pas de nuance. Deze zou beter boven de lopende tekst kunnen staan.
+
+Ook had Marie nog een laatste opmerking over de timing functionaliteit. In dit prototype worden de woorden alleen gehighlight als deze gesproken worden. De hele zin staat al in beeld. Marie vertelde dat ze nu soms sneller leest dan de highlight. Het leek haar tof als de woorden pas in beeld komen als ze verteld worden.
+
+## Laatste iteratie
+Op basis van Marie haar laatste feedback is dit de laatste iteratie geworden:
+
+<img src="content/prototype5.png" width="70%" alt="Prototype 5">
+
+Je kunt ook de [live-versie bekijken]( .
 
 ## Exclusive Design
-Student laat zien hoe de Exclusive Design Principles zijn toegepast in het ontwerp. De principes study situation, prioritise identity, ignore conventions en add nonsense zijn goed uitgelegd. Aan de hand van de principes wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp.
+Exclusive Design is het tegenover gestelde van Inclusive Design. Normaal ontwerpen we site's en apps die voor zoveel mogelijk mensen te gebruiken is. Bij exclusive design focus je juist helemaal op 1 persoon. Een ontwerp wat helemaal afgestemd is op 1 iemand. 
+
+Exclusive Design kun je opdelen in 4 elementen:
 
 ### 1. Study situation
+Door heel specifiek te kijken naar de situatie van 1 persoon, ga je pas echt begrijpen wat diegene nodig heeft.
+
+Bij Marie weet je dat ze doof is en dat ze dus tekst nodig heeft in plaats van audio. Maar door haar vragen te stellen en haar context te onderzoeken, kom je er pas achter dat ze meer nodig heeft. Dat ze nuances mist en geen sfeer en emotie voelt zoals goed horende dat meteen horen bij audio.
+
+Door specifiek Marie haar situatie uit te pluizen kom je op betere oplossingen, wat leidt tot een fijnere ervaring voor haar.
 
 ### 2. Ignore conventions
+Een menu staat bovenaan, scrollen doen we van boven naar beneden. Patronen in het web zijn handig, zodat je snel een interface begrijpt, maar mensen met een beperking hebben soms juist last van zo'n patroon. 
+
+Visual podcast is dan ook geen normaal standaard transcript maar specifiek aangepast naar Marie haar voorkeuren.
 
 ### 3. Prioritise identity
+Door Marie haar persoonlijkheid en voorkeuren terug te laten komen in het ontwerp, zal zij dit ontwerp sneller gebruiken. Je zelf ergens in herkennen en prettig bij voelen is al snel fijn. 
+
+Ik heb daarom gekozen voor de podcast Bob van VPRO. Marie werkt bij de VPRO. Ze kent de collega's die daar aan hebben gewerkt, zo heeft ze al een connectie met de podcast en kan ze op haar werk meepraten over de podcast.
 
 ### 4. Add nonsense
+Een site moet functioneel zijn. Maar als het eenmaal werkt, wordt het snel saai als je niks leuks toevoegd. Waarom zou je je bezoekers niet met een glimlach laten rondstruinen op je applicatie? 
+
+Ik heb daarom een kleine easter-egg toegevoegd voor Marie. Als de podcast toch wat saai of niet intressant is, kan ze op het microfoontje klikken in de header, voor een leuk animatie effect.
+
+<img src="content/nonsense.png" width="70%" alt="Nonsense">
 
 
 ## Conclusie
 Waarom uiteindelijke oplossing werkt
+In de uiteindelijke versie van Visual Podcast kan Marie mee lezen op het ritme van de spreker, maar kan ze dit ritme ook versnellen, zoals ze dat gewend is van YouTube video's.
 
-(Soort reflectie ook)
-waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
+Door de achtergrond video, beschrijving van geluiden en de nunace die de intentie van de spreker uitlegd, is het gesprek voor Marie aanzienlijk beter te volgen. Door de sfeer en emotie die ze meekrijgt.
 
-Do's & dont's over testen
 
-Wat had ik nog willen uitwerken?
+Ik vond het heel interessant om speciaal voor iemand met een beperking die normaal een minder prettige ervaring heeft op het web, iets vets te maken. Ik heb geleerd hoe het is om exclusief voor 1 iemand te ontwerpen. En dit ontwerp met verschillende prototypes te testen (met een tolk) en te itereren.
 
-als ik nog meer tijd had, dan nadrukken beter
+Wat betreft het testen was het fijn om direct naast Marie te zitten en te zien hoe ze interacteert met het prototype. Ik ben blij dat ik alles uiteindelijk in code heb geprototyped. Ik twijfelde nog om in Adobe Premiere Pro te werken, maar ondanks dat het iets meer tijd kosten is het fijne van code dat je echte interactie hebt op het web, in plaats van een filmpje met een animatie. 
+
+Als ik nog meer tijd had, dan had ik nog graag meer specifieke woorden in de lopende tekst willen benadrukken. Dan kun je nog beter overbrengen hoe de spreker een woord uitspreekt en daarmee bedoelt.
 
 
 ## Installing
