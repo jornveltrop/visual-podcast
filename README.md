@@ -80,12 +80,29 @@ Ik heb uiteindelijk gekozen om de timing functionaliteit te gaan proberen te bou
 ## Prototype 3
 In prototype 3 heb ik prototype 1 en 2 samengevoegd. De timing functionaliteit om te zien wanneer de spreker een woord zegt werkt nu volledig in het ontwerp van prototype 1.
 
-Ook heb ik 
-Persoonlijk door VPRO
-hoi
+Naast dat ik de emoji's dichterbij de tekst heb gezet, zoals Marie aangaf, heb ik 't ook nog een persoonlijke *touch* gegeven.
+
+Ook heb ik een apart blokje gemaakt voor achtergrond geluid. Hierin wordt beschreven welke andere geluiden er te horen zijn naast het lopende gesprek.
+
+Marie werkt bij de VPRO, dus ik heb daarom de podcast Bob van de VPRO gekozen. Ik hoopte dat ze er misschien van gehoord zou hebben en dat ze dan mee zou kunnen praten met haar collega's.
+
+Persoonlijke elementen zijn namelijk erg belangrijk bij [exclusive design](#exclusive-design)
+
+<img src="content/prototype3.png" width="70%" alt="Prototype 3">
 
 ### Testen met Marie | Week 2
-Testopzet
+Tijdens het testen met prototype 3 was ik natuurlijk vooral benieuwd of Marie de highlight timing functionaliteit prettig vond. Ook wilde ik weten wat ze van de emoties in de tekstblokken vond. Zo ook van de achtergrond geluiden beschrijving.
+
+Marie liet tijdens het testen weten dat ze al erg blij was met deze versie. Wel had ze een paar opmerkingen tijdens het testen:
+
+- De achtergrond geluiden beschrijving was fijn
+- De highlight timing was al een prettige verbetering.
+- Ze twijfelde over de emoji's. Deze betekenen voor iedereen namelijk weer iets anders. Ze vertelde daarom dat een beschrijvend woord van de nuance misschien beter zou zijn. Zoals *'verbaasd'*. 
+
+Naar aanleiding van haar opmerking over emoji's, vroeg ik of ze het misschien meer in een lopende zin zou willen lezen. Zoals: *"Dat weet ik niet", zei hij verbaasd.*. Dat wilde ze niet. 1 woord is genoeg, omdat ze anders alleen maar meer moet lezen, waar ze geen zin in heeft.
+
+
+Als laatste vroeg ik haar 
 
 ## Prototype 4
 
@@ -94,6 +111,15 @@ Testopzet
 
 ## Exclusive Design
 Student laat zien hoe de Exclusive Design Principles zijn toegepast in het ontwerp. De principes study situation, prioritise identity, ignore conventions en add nonsense zijn goed uitgelegd. Aan de hand van de principes wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp.
+
+### 1. Study situation
+
+### 2. Ignore conventions
+
+### 3. Prioritise identity
+
+### 4. Add nonsense
+
 
 ## Conclusie
 Waarom uiteindelijke oplossing werkt
