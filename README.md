@@ -50,20 +50,46 @@ Marie zal de applicatie niet op dezelfde manier gebruiken zoals goed horende pod
 ## Prototype 1
 Als eerste prototype had ik snel een opzet gemaakt van het concept. Nog niet interactief, want we hadden maar 3 uur voordat Marie kwam voor de eerste test. 
 
-Het concept is **'Visual Podcast'**. In het eerste prototype van Visual Podcast zie je in teks
-### Test 1
-Testopzet
+Het concept is **'Visual Podcast'**. In het eerste prototype van Visual Podcast kun je een podcast aanzetten en wordt het gesprek omgezet in tekst blokken. In deze tekst blokken staat wie er aan het praten is met een foto. Zo krijg je een beter beeld als slecht horende wie wat zegt.
+
+Ook is er bovenaan het transcript een emoji te zien, deze emoji geeft de sfeer en nuance weer van het gesprek. Deze emoji verandert dus mee met het gesprek.
+
+<img src="content/prototype1.png" width="56%" alt="Prototype 1">
+
+### Testen met Marie | Week 1
+De eerste keer testen met Marie was bijzonder. Aangezien Marie doof is had ze 2 tolken bij zich. Het testen is dan ook anders dan ik gewend was, omdat ik moest wennen aan het praten via een tolk. Uiteindelijk ging het best goed.
+
+Ik wilde testen bij Marie wat ze vond van de Emoji die de nuance en sfeer aan zou moeten geven. Ook was ik benieuwd wat ze van de algemene opzet vond qua vormgeving en concept.
+
+Marie gaf aan dat ze de emoji te ver van de tekst vandaan vond staan. Ze vertelde, via de tolk, dat ze nu de hele tijd weg moet kijken van de tekst om de emoji te kunnen zien. Goed punt.
+
+Wat betreft de vormgeving en het concept vond ze het nice! Niet zoveel op aan te merken en gaf haar duidelijk aan welke podcast ze luisterde. 
+
+Wel gaf Marie nog aan dat ze nu niet kan zien wanneer een spreker iets zegt. De timing van het gesprek is van belang om je beter voor te kunnen stellen hoe het gezegd zou zijn.
 
 ## Prototype 2
+Aangezien Marie aangaf dat ze de timing wilt volgen van de spreker twijfelde ik wat slim was om te doen. Er is namelijk nog geen goede JavaScript transcript timing functionaliteit. 
+Om deze zelf te maken zou veel tijd kosten, maar als ik de functionaliteit eenmaal had, zou het prototypen erg snel gaan. 
+
+Ik kon ook de tekst in Adobe Premiere Pro animeren. Dat zou veel sneller zijn, maar niet op het web. Waardoor je alles handmatig zou moeten blijven aanpassen.
+
+Ik heb uiteindelijk gekozen om de timing functionaliteit te gaan proberen te bouwen in code. Dit lukte na een lange dag coderen in dit simpele prototype. 
+
+<img src="content/prototype2.png" width="70%" alt="Prototype 2">
 
 ## Prototype 3
+In prototype 3 heb ik prototype 1 en 2 samengevoegd. De timing functionaliteit om te zien wanneer de spreker een woord zegt werkt nu volledig in het ontwerp van prototype 1.
 
-### Test 2
+Ook heb ik 
+Persoonlijk door VPRO
+hoi
+
+### Testen met Marie | Week 2
 Testopzet
 
 ## Prototype 4
 
-### Test 4
+### Testen met Marie | Week 3
 Testopzet
 
 ## Exclusive Design
@@ -78,6 +104,8 @@ waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is 
 Do's & dont's over testen
 
 Wat had ik nog willen uitwerken?
+
+als ik nog meer tijd had, dan nadrukken beter
 
 
 ## Installing
