@@ -21,11 +21,10 @@
 ## Features
 |                                                                   |     |
 | ----------------------------------------------------------------- | --- |
-| 🔍  Zoek jouw favoriete kunstwerken uit de Rijksmuseum collectie! | ✔   |
-| 🖼️  Lees informatie over de kunstwerken                           | ✔   |
-| ⭐  Sla je favoriete kunstwerken op	                            | ✔   |
-| 💾  Cached pagina's voor een snellere ervaring                    | ✔   |
-| 🎨  Filter op jouw voorkeuren **COMING SOON**                     |     |
+| 💬  Podcast transcriptie, maar dan goed                            | ✔   |
+| ⏱️  Timing functionaliteit van spreker                            | ✔   |
+| ✨  Extra sfeer & emotie herkenning                               | ✔   |
+
 
 ## De opdracht
 **Voor het project Human Centered Design maakte ik een applicatie voor een écht mens. Marie van Driessche is Doof, met een hoofdletter, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is. Marie is doof geboren, maar dat laat haar niet zomaar stoppen. Ze werkt voor de VPRO als interaction designer op het gebied van toegankelijkheid en probeert haar leven zo gewoon mogelijk te leven.**
