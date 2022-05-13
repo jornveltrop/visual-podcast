@@ -1,27 +1,32 @@
 # <img src="content/banner.jpg" width="100%" alt="banner">
 
 ## Table of contents
-  - [About](#about)
-  - [Features](#features)
-  - [Client & server side rendering](#Client--server-side-rendering)
-  - [Job Stories - Service Worker](#Job-Stories---Service-Worker)
-  - [Activity Diagram](#Activity-Diagram)
-  - [Critical render path](#Critical-render-path)
-  - [API documentation](#API-documentation)
+  - [Features](#Features)
+  - [De opdracht](#De-opdracht)
+  - [User Scenario](#User-scenario)
+  - [Prototype 1](#Prototype-1)
+  	- [Testen met Marie | Week 1](#testen-met-marie--week-1)
+  - [Prototype 2](#Prototype-2)
+  - [Prototype 3](#Prototype-3)
+  	- [Testen met Marie | Week 2](#testen-met-marie--week-2)
+  - [Prototype 4](#Prototype-4)
+  	- [Testen met Marie | Week 3](#testen-met-marie--week-3)
+  - [Laatste iteratie](#Laatste-iteratie)
+  - [Exclusive Design](#Exclusive-design)
+  - [Conclusie](#Conclusie)
   - [Installing](#installing)
   - [Author](#author)
-  - [To-do](#To-do)
   - [Contributing](#contributing)
   - [License](#license)
 
-## [Live demo Visual Podcast()
+## [Live demo | Visual Podcast](https://visual-podcast.herokuapp.com/)
 
 <img src="content/interface.jpg" width="56%" alt="interface">
 
 ## Features
 |                                                                   |     |
 | ----------------------------------------------------------------- | --- |
-| 💬  Podcast transcriptie, maar dan goed                            | ✔   |
+| 💬  Podcast transcriptie, maar dan goed                           | ✔   |
 | ⏱️  Timing functionaliteit van spreker                            | ✔   |
 | ✨  Extra sfeer & emotie herkenning                               | ✔   |
 
@@ -85,9 +90,9 @@ Ook heb ik een apart blokje gemaakt voor achtergrond geluid. Hierin wordt beschr
 
 Marie werkt bij de VPRO, dus ik heb daarom de podcast Bob van de VPRO gekozen. Ik hoopte dat ze er misschien van gehoord zou hebben en dat ze dan mee zou kunnen praten met haar collega's.
 
-Persoonlijke elementen zijn namelijk erg belangrijk bij [exclusive design](#exclusive-design)
+Persoonlijke elementen zijn namelijk erg belangrijk bij [exclusive design](#exclusive-design).
 
-<img src="content/prototype3.png" width="70%" alt="Prototype 3">
+<img src="content/prototype3.png" width="56%" alt="Prototype 3">
 
 ### Testen met Marie | Week 2
 Tijdens het testen met prototype 3 was ik natuurlijk vooral benieuwd of Marie de highlight timing functionaliteit prettig vond. Ook wilde ik weten wat ze van de emoties in de tekstblokken vond. Zo ook van de achtergrond geluiden beschrijving.
@@ -110,7 +115,7 @@ Rechts van de audio controls heb ik ook een video knop toegevoegd om de achtergr
 
 Ook had ik de emoji's vervangen met een beschrijvend woord.
 
-<img src="content/prototype4.png" width="70%" alt="Prototype 4">
+<img src="content/prototype4.png" width="56%" alt="Prototype 4">
 
 ### Testen met Marie | Week 3
 De laatste keer testen met Marie. Ze herkende inmiddels de applicatie en was benieuwd naar de achtergrondvideo. Deze vond ze erg fijn, omdat het goed bijdraagt aan de sfeer.
@@ -123,9 +128,9 @@ Ook had Marie nog een laatste opmerking over de timing functionaliteit. In dit p
 ## Laatste iteratie
 Op basis van Marie haar laatste feedback is dit de laatste iteratie geworden:
 
-<img src="content/prototype5.png" width="70%" alt="Prototype 5">
+<img src="content/prototype5.png" width="56%" alt="Prototype 5">
 
-Je kunt ook de [live-versie bekijken]( .
+Je kunt ook de [live-versie bekijken](https://visual-podcast.herokuapp.com/).
 
 ## Exclusive Design
 Exclusive Design is het tegenover gestelde van Inclusive Design. Normaal ontwerpen we site's en apps die voor zoveel mogelijk mensen te gebruiken is. Bij exclusive design focus je juist helemaal op 1 persoon. Een ontwerp wat helemaal afgestemd is op 1 iemand. 
